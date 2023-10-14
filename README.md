@@ -7,6 +7,9 @@
 
 ## Major Requirements
 
+* python 3.8
+* Pytorch 1.1
+  
 ## Evaluation with Trained Models
 
 ## Model Training
