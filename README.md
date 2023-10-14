@@ -13,14 +13,19 @@
 
 ## Usage of ENKOSUM
 
-```
+```python
 from transformers import AutoTokenizer
 from longformer import LongformerEncoderDecoderForConditionalGeneration
 from longformer import LongformerEncoderDecoderConfig
 
-tokenizer = AutoTokenizer.from_pretrained('./PRIMERA_model/')
-config = LongformerEncoderDecoderConfig.from_pretrained('./PRIMERA_model/')
+tokenizer = AutoTokenizer.from_pretrained('./EnKoSUM_model/')
+config = LongformerEncoderDecoderConfig.from_pretrained('./EnKoSUM_model/')
 model = LongformerEncoderDecoderForConditionalGeneration.from_pretrained(
-            './PRIMERA_model/', config=config)
+            './EnKoSUM_model/', config=config)
 ```
+
+
 ## Model Results
+
+
+
