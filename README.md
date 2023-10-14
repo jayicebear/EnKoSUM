@@ -1,13 +1,13 @@
+# EnKoSUM: English-Korean Summarization Via Pyramid structure for MD summarization 
 
-#EnKoSUM: English-Korean Summarization Via Pyramid structure for MD summarization 
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## overview
 
-overview
+## Major Requirements
 
-Major Requirements
+## Evaluation with Trained Models
 
-Evaluation with Trained Models
+## Model Training
 
-Model Training
-
-Model Results
+## Model Results
