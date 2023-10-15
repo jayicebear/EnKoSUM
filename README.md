@@ -19,7 +19,7 @@ To address this inconvenience, we propose "ENkosum: English-Korean Summarization
 
 
 ## Code structure
-
+   
 ├── run_EnkoSum40k.py   
 │   
 ├── data   
@@ -32,7 +32,7 @@ To address this inconvenience, we propose "ENkosum: English-Korean Summarization
 │           ├── val.json   
 │           └── test.json   
 └── model_output   
-
+   
 ## Usage of ENKOSUM
 
 ```python
