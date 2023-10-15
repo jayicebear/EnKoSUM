@@ -19,20 +19,20 @@ To address this inconvenience, we propose "ENkosum: English-Korean Summarization
 
 
 ## Code structure
-'''
-├── run_EnkoSum40k.py
-│
-├── data
-│   └── EnkoSum
-│   │       ├── train.json
-│   │       ├── val.json
-│   │       └── test.json
-│   └── XMediaSum40k
-│           ├── train.json
-│           ├── val.json
-│           └── test.json
-└── model_output
-'''
+
+├── run_EnkoSum40k.py   
+│   
+├── data   
+│   └── EnkoSum   
+│   │       ├── train.json   
+│   │       ├── val.json   
+│   │       └── test.json   
+│   └── XMediaSum40k   
+│           ├── train.json   
+│           ├── val.json   
+│           └── test.json   
+└── model_output   
+
 ## Usage of ENKOSUM
 
 ```python
