@@ -19,8 +19,8 @@ To address this inconvenience, we propose "ENkosum: English-Korean Summarization
 
 
 ## Code structure
-.
-├── run_EnkoSum40k.py
+
+/n ├── run_EnkoSum40k.py
 │
 ├── data
 │   └── EnkoSum
